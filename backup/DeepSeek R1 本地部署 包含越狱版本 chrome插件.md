@@ -9,29 +9,29 @@ DeepSeek 是一家初创公司，近期发布了全新一代大模型“DeepSeek
 	• run deepseek-r1:1.5b
 
 
-	•	7B Qwen DeepSeek R1：
+	7B Qwen DeepSeek R1：
 
-ollama run deepseek-r1:7b
-
-
-	•	8B Llama DeepSeek R1：
-
-ollama run deepseek-r1:8b
+•	 run deepseek-r1:7b
 
 
-	•	14B Qwen DeepSeek R1：
+8B Llama DeepSeek R1：
 
-ollama run deepseek-r1:14b
-
-
-	•	32B Qwen DeepSeek R1：
-
-ollama run deepseek-r1:32b
+	•	 run deepseek-r1:8b
 
 
-	•	70B Llama DeepSeek R1：
+	14B Qwen DeepSeek R1：
 
-ollama run deepseek-r1:70b
+•	 run deepseek-r1:14b
+
+
+	32B Qwen DeepSeek R1：
+
+•	 run deepseek-r1:32b
+
+
+	70B Llama DeepSeek R1：
+
+•	 run deepseek-r1:70b
 
 
 	2.	下载 AnythingLLM：
@@ -46,29 +46,29 @@ DeepSeek R1 越狱版现已发布，提供无审查、无内容限制的体验�
 
 
 	2.	在终端中通过以下命令下载 DeepSeek R1 越狱版：
-	•	7B：
+		7B：
 
-ollama run huihui_ai/deepseek-r1-abliterated:7b
-
-
-	•	8B：
-
-ollama run huihui_ai/deepseek-r1-abliterated:8b
+• run huihui_ai/deepseek-r1-abliterated:7b
 
 
-	•	14B：
+		8B：
 
-ollama run huihui_ai/deepseek-r1-abliterated:14b
-
-
-	•	32B：
-
-ollama run huihui_ai/deepseek-r1-abliterated:32b
+• run huihui_ai/deepseek-r1-abliterated:8b
 
 
-	•	70B：
+		14B：
 
-ollama run huihui_ai/deepseek-r1-abliterated:70b
+• run huihui_ai/deepseek-r1-abliterated:14b
+
+
+	32B：
+
+•	 run huihui_ai/deepseek-r1-abliterated:32b
+
+
+	70B：
+
+•	 run huihui_ai/deepseek-r1-abliterated:70b
 
 
 	chrome插件：	安装 Web UI：
