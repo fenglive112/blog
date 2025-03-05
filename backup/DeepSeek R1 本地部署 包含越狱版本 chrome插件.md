@@ -4,9 +4,9 @@ DeepSeek 是一家初创公司，近期发布了全新一代大模型“DeepSeek
 	1.	通过 Ollama 安装：
 	•	Ollama 官方下载地址： [点击前往](https://ollama.com/)
 	•	安装命令：
-	•	1.5B Qwen DeepSeek R1：
+	1.5B Qwen DeepSeek R1：
 
-ollama run deepseek-r1:1.5b
+	• run deepseek-r1:1.5b
 
 
 	•	7B Qwen DeepSeek R1：
