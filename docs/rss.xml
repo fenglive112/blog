@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feng哥的微博</title><link>https://fenglive112.github.io/blog</link><description>记录技术</description><copyright>feng哥的微博</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/60965110?v=4</url><title>avatar</title><link>https://fenglive112.github.io/blog</link></image><lastBuildDate>Tue, 11 Mar 2025 14:48:52 +0000</lastBuildDate><managingEditor>feng哥的微博</managingEditor><ttl>60</ttl><webMaster>feng哥的微博</webMaster><item><title>Wan 2.1 本地部署教程 文生视频 图生视频</title><link>https://fenglive112.github.io/blog/post/Wan%202.1%20-ben-di-bu-shu-jiao-cheng-%20-wen-sheng-shi-pin-%20-tu-sheng-shi-pin.html</link><description># Wan 2.1 本地部署教程！
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feng哥的微博</title><link>https://fenglive112.github.io/blog</link><description>记录技术</description><copyright>feng哥的微博</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/60965110?v=4</url><title>avatar</title><link>https://fenglive112.github.io/blog</link></image><lastBuildDate>Wed, 12 Mar 2025 14:48:26 +0000</lastBuildDate><managingEditor>feng哥的微博</managingEditor><ttl>60</ttl><webMaster>feng哥的微博</webMaster><item><title>dify本地部署+本地deepseek链接</title><link>https://fenglive112.github.io/blog/post/dify-ben-di-bu-shu-%2B-ben-di-deepseek-lian-jie.html</link><description>1下载docker [
+](https://www.docker.com/)
+2 去dify github网站  参考官网
+https://github.com/langgenius/dify
+点击 code 选择 downld zip 文件
+解压文件到 dify文件夹 这个随意 
+在这个文件夹的地址栏 输入 cmd 进入终端
+输入命令：docker compose up -d  进行安装
+访问 127.0.0.1 进入dify 设置管理员 登陆后 点头像 进入设置
+安装 ollama 模型 重启dify
+进入设置 ollama模型  
+
+名字输入：deepseek的全名（ollama list里面的）
+地址（非常关键）：http://host.docker.internal:11434
+添加成功 
+
+参考：https://docs.dify.ai/development/models-integration/ollama。</description><guid isPermaLink="true">https://fenglive112.github.io/blog/post/dify-ben-di-bu-shu-%2B-ben-di-deepseek-lian-jie.html</guid><pubDate>Wed, 12 Mar 2025 14:47:59 +0000</pubDate></item><item><title>Wan 2.1 本地部署教程 文生视频 图生视频</title><link>https://fenglive112.github.io/blog/post/Wan%202.1%20-ben-di-bu-shu-jiao-cheng-%20-wen-sheng-shi-pin-%20-tu-sheng-shi-pin.html</link><description># Wan 2.1 本地部署教程！
 
  1: Wan 2.1 本地部署教程！
 
