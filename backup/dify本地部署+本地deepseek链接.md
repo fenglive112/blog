@@ -1,5 +1,5 @@
 1下载docker [
-](https://www.docker.com/)
+https://www.docker.com
 2 去dify github网站  参考官网
 https://github.com/langgenius/dify
 点击 code 选择 downld zip 文件
